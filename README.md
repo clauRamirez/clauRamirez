@@ -1,4 +1,13 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there, I'm Clau Ramirez 👋
+</h2>
+
+<h2 align="center"> 
+  I am self-taught Software Developer, currently learning at CodeClan💻!
+</h2>
+
+
+
 
 <!--
 **clauRamirez/clauRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
