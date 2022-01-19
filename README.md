@@ -29,6 +29,7 @@ Technologies I use:
 *  Full-Stack development
 *  REST APIs
 *  Scripting and automation
+*  Cloud Computing
 
 <br>Technologies I'd like to learn:
 * OOP language (Soon to start with Java at CodeClan! ☕)
