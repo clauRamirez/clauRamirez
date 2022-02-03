@@ -7,10 +7,11 @@
 </h2>
 <br>
 
-<h4>Currently learning by doing projects with MongoDB, Express, React and Node.js 📚 </h4>
-<h4>Soon to start with Java and Spring Boot at CodeClan ☕</h4>
+<h4>Soon to start with Java and Spring at CodeClan ☕</h4>
 <br>
 
+
+<!--
 Technologies I use:
 *  Python 🐍
 *  Flask 🧞
@@ -37,7 +38,7 @@ Technologies I use:
 * Vue 
 
 
-<!--
+
 **clauRamirez/clauRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
