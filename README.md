@@ -3,11 +3,11 @@
 </h1>
 
 <h2 align="center"> 
-  I am self-taught Software Developer, currently learning at CodeClan 💻!
+  I am Junior Software Developer at CodeClan 💻!
 </h2>
 <br>
 
-<h4>Soon to start with Java and Spring at CodeClan ☕</h4>
+<h4>Currently learning Java and Spring☕</h4>
 <br>
 
 
