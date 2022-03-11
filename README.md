@@ -17,7 +17,7 @@ Technologies I use:
 *  MongoDB 🟢
 *  Linux 🐧 
 *  macOS 🍎
-*  
+
 <br>
 Technologies I'd like to learn:
 
