@@ -16,15 +16,12 @@ Technologies I use:
 *  PosgreSQL 🐘 
 *  MongoDB 🟢
 *  Linux 🐧 
-*  macOS 🍎
 
 <br>
 Technologies I'd like to learn:
 
 * Docker
 * Cloud computing 
-
-
 
 <!--
 **clauRamirez/clauRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
