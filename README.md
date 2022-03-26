@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center"> 
-  I am Junior Software Developer currently learning at CodeClan 💻!
+  I am dynamic Junior Software Developer looking for opportunities to grow and challenge myself.
 </h2>
 
 <br>
@@ -16,11 +16,11 @@ Technologies I use:
 *  PosgreSQL 🐘 
 *  MongoDB 🟢
 *  Linux 🐧 
+*  Docker 🐳
 
 <br>
 Technologies I'd like to learn:
 
-* Docker
 * Cloud computing 
 
 <!--
